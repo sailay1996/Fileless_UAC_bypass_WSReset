@@ -1,4 +1,7 @@
 # Fileless_UAC_bypass_WSReset
+
+#### updated :  if av detect getsystem.exe , use uacbypass.py  (using psexec to get system shell) 
+
 I created the python script to bypass UAC to get system shell . <br>
 #### Base On this : https://www.activecyber.us/activelabs/windows-uac-bypass
 
